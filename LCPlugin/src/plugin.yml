@@ -1,0 +1,15 @@
+name: LCPlugin
+main: no.pazflor.lcplugin.LCPlugin
+version: 1.0
+author: Pazflor
+description: Hoved plugin for LemonCraft.
+commands:
+  hjelp:
+    usage: /<command>
+    description: Viser meldingen fra hjelpfilen i LCPlugin mappen.
+  regler:
+    usage: /<command>
+    description: Viser meldingen fra regelfilen i LCPlugin mappen.
+  loc:
+    usage: /<command>
+    description: Viser spilleren koordinatene sine.
